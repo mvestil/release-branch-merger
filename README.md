@@ -28,8 +28,8 @@ This is the case where there is bugfix to the active release branch and the exis
 
 For creating a new branch from the active release branch
 
-```./release_to_release_branch.sh create seeking release/active-branch release/new-branch```
+```./release_to_release_branch.sh create <project-folder> release/active-branch release/new-branch```
 
 For updating the new branch from the active release branch
 
-```./release_to_release_branch.sh update seeking release/active-branch release/existing-branch```
+```./release_to_release_branch.sh update <project-folder> release/active-branch release/existing-branch```
