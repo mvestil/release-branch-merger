@@ -16,7 +16,7 @@ Script I use for creating and updating release branches for my Development flow.
 
 #### Update the existing release branch from the active release branch.
 
-This is the case where there is bugfix to the active release branch and the existing branch must be updated
+This is the case where there is updates to the active release branch and the existing branch must be updated
 
 1. Pull latest from release branch (active branch, usually ready for release)
 2. Merge the active branch to develop branch
